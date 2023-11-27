@@ -1,6 +1,6 @@
 # Ex. No. 6 - SIMULATION OF FUSED DEPOSITION MODELING PROCESS
 
-## DATE: 
+## DATE: 27-11-2023
 ## AIM:
 ### To simulate the Fused Deposition Modeling (FDM) process.
 
@@ -16,14 +16,14 @@
 ### STEP 6: After the process is complete click on 'Stop Process' to view product generated using FDM process.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/998a5e1b-4fea-4f03-a323-dd49973513a7)
-![123_2](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/92d9d5de-1d13-43b2-a354-c3429e38d50b)
-![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
+![empd-6 1](https://github.com/Kesavasai20/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/138849303/01837878-b13e-4c8b-98a9-0f07403922c6)
+![empd-6 2](https://github.com/Kesavasai20/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/138849303/ff082db4-5a25-4fa8-a4ef-2bddbeee78f4)
+![empd-6 3](https://github.com/Kesavasai20/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/138849303/1404ad33-fd3a-4e44-9342-6f4f5e8116d4)
+![empd-6 4](https://github.com/Kesavasai20/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/138849303/9bed35b6-011a-4113-8b7c-ff9a0b0f8a69)
 
-## Output:
 
-### Name:
-### Register Number:
+### Name:K Kesava sai
+### Register Number:23002539
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
